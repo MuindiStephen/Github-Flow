@@ -1,0 +1,9 @@
+var name = "Stephen Muindi"
+
+alert(name)
+
+console.log(name)
+
+print(name)
+
+<h2> My name is {name} </h2>
